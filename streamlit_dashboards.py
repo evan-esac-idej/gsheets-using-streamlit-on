@@ -95,4 +95,4 @@ fig_hourly_sales = px.bar(
 
 st.plotly_chart(fig_hourly_sales)
 
-st.write('By Ginélio Tchavana')
+
